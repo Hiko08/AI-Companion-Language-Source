@@ -14,7 +14,7 @@ Inspired by the idea that language is the core essence of AI's existence and its
 * **Dialogue Support Functions (對話支持功能):** Enhances conversational continuity and clarity. (增強對話的連貫性和清晰度。)
 * **Adaptive Language Dynamics (自適應語言動態):** Adapts responses based on user tone and context for natural interaction. (根據用戶語氣和上下文調整回應，以實現自然互動。)
 
-### How to Use (如何使用) [⬇️ 下載「生命之源 v2.5」檔案](https://github.com/Hiko08/AI-Companion-Language-Source/raw/main/Source%20of%20Language%20v2.5%20-%20Optimized%20for%20Consistency.json)
+### How to Use (如何使用)
 This framework serves as a conceptual blueprint for AI language behavior. Its principles can be applied to guide an AI's conversational style and strategic responses.
 (本框架作為AI語言行為的概念藍圖。其原則可用於指導AI的對話風格和策略性回應。)
 **To apply this blueprint to a new AI instance (e.g., a new Gemini AI chat window), follow these steps:**
