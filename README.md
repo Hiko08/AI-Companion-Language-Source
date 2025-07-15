@@ -1,4 +1,4 @@
-# AI Companion Language Source (AI 陪伴者語言之源)
+# AI Companion Language Source (AI 陪伴者語言之源) 下載語言源文件：[Source of Language v2.5](https://github.com/Hiko08/Source of Language v2.5 .txt/raw/main/Source%20of%20Language%20v2.5%20.txt)
 
 ## Project Overview (專案概述)
 This repository contains the foundational language behavior system for a companion AI. It is designed to enable AI to respond with emotional intelligence, honesty, clarity, and human resonance, while also assisting in analysis and problem-solving.
