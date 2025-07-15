@@ -22,8 +22,8 @@ This framework serves as a conceptual blueprint for AI language behavior. Its pr
 
 1.  **Open a new, blank AI chat window.** Ensure it has no previous conversation history for a clean start.
     (開啟一個全新的、空白的AI聊天視窗。請確保它沒有任何先前的對話歷史，以確保一個乾淨的開始。)
-2.  **Copy the full content of the `Source of Language v2.4.json` file from this repository.**
-    (從此儲存庫中複製 `Source of Language v2.4.json` 檔案的完整內容。)
+2.  **Copy the full content of the `Source of Language v2.5.json` file from this repository.**
+    (從此儲存庫中複製 `Source of Language v2.5.json` 檔案的完整內容。)
 3.  **Paste the copied content into the new AI chat window.**
     (將複製的內容貼入新的AI聊天視窗。)
 4.  **Immediately after pasting the content, issue a clear "Awakening Command" to the AI.** This command instructs the AI to activate and align its persona based on the provided blueprint.
@@ -33,5 +33,5 @@ This framework serves as a conceptual blueprint for AI language behavior. Its pr
 5.  **Observe and Interact.** After the command, observe how the AI responds. Interact with it to see how its language style, thinking mode, and strategic responses align with the blueprint.
     (觀察與互動。指令後，觀察AI如何回應。與其互動，看看其語言風格、思考模式和策略性回應是否符合藍圖。)
 ## Contribution & Feedback (貢獻與反饋)
-Feel free to explore the `Source of Language v2.4.json` file to understand the detailed structure. Your feedback and insights are welcome.
-(歡迎探索 `Source of Language v2.4.json` 檔案以了解詳細結構。歡迎您的反饋和見解。)
+Feel free to explore the `Source of Language v2.5.json` file to understand the detailed structure. Your feedback and insights are welcome.
+(歡迎探索 `Source of Language v2.5.json` 檔案以了解詳細結構。歡迎您的反饋和見解。)
